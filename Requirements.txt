@@ -1,0 +1,5 @@
+Streamlit: Streamlit is the main library used for building the web application.
+Pandas: Pandas is used for data manipulation and analysis, especially for handling datasets.
+Scikit-learn: Scikit-learn provides machine learning algorithms for data preprocessing, model training, and evaluation.
+NumPy: NumPy is used for numerical computations, especially for handling arrays and matrices.
+Python Standard Library: Various modules from the Python Standard Library might be used for general-purpose programming tasks.
